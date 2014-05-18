@@ -134,7 +134,7 @@ Or you can use a conf file:
         conf => '/path/to/conf.pl',
     );
 
-    See L<DBIx::Raw> for more information on those options. Additionally, there is one new option in L<Catalyst::Model::DBIx::Raw>, and that is C<dbix_class_model>:
+See L<DBIx::Raw> for more information on those options. Additionally, there is one new option in L<Catalyst::Model::DBIx::Raw>, and that is C<dbix_class_model>:
 
     __PACKAGE__->config(
         dbix_class_model => 'DB', 
