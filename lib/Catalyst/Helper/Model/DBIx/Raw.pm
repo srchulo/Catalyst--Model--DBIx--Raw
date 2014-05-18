@@ -1,7 +1,7 @@
 package Catalyst::Helper::Model::DBIx::Raw;
 use strict;
  
-#ABSTRACT: Helper for Net::Stripe Model
+#ABSTRACT: Helper for DBIx::Raw Model
 
 =head1 SYNOPSIS
  
