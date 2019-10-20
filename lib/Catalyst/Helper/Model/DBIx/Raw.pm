@@ -49,6 +49,8 @@ __PACKAGE__->config(
 	conf => '/path/to/conf.pl',
 	dbix_class_model => 'DB',
 );
+
+=end pod_to_ignore
  
 =head1 NAME
  
